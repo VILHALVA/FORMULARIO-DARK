@@ -32,12 +32,7 @@ unzip FORMULARIO-DARK.zip
 
 ### EXECUTANDO O PROJETO:
 1. Abra o arquivo `index.html` em seu navegador de preferência.
-2. Crie um diretório chamado `assets` e dentro dele:
-    * Crie um diretório chamado `css` e salve o seu código CSS para estilizar o formulário (com classes para "dark" e "light").
-    * Crie um diretório chamado `js` e salve o código JavaScript incluso.
-    * Salve as imagens dos ícones de rede social (`facebook.png`, `google.png`, `github.png`).
-3. Abra o arquivo `index.html` em seu navegador.
-4. Clique no ícone de lua/sol para alternar entre os modos.
+2. Clique no ícone de lua/sol para alternar entre os modos.
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
