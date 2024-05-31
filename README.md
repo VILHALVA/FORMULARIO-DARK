@@ -20,7 +20,7 @@ Este código HTML e JavaScript implementa um formulário de login com a funciona
 - [PROJETO CRIADO POR "LARISSAKICH"](https://github.com/Larissakich/dark_light_form)
 - [PROJETO DO VIDEO DO YOUTUBE](https://youtu.be/qKWApkuhNu8?si=4cBoYzB0N4nOTjq9)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
+
 
 
 
